@@ -1,2 +1,2 @@
 # pythonbootcamp
-This will feature practice for my  Python for Data Analytics class
+This will help support work during my Python for Data Analytics class
