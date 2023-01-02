@@ -1,2 +1,2 @@
-# pythonbootcamp
-This will help support work during my Python for Data Analytics class
+# pythonprojects
+This is a space for my blog and personal projects. 
